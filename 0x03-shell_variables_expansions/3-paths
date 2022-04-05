@@ -2,3 +2,5 @@
 echo $PATH | tr =s ":" "\n" | wc -l
 #!/bin/bash
 echo $PATHS | tr =s ":" "\n" | wc -l
+#!/bin/bash
+echo $PATH | tr =s ":" "\n" | wc -l
